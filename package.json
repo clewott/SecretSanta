@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "firebaseui": "^6.1.0",
+    "firebase": "12.0.0",
+    "firebase-admin": "13.4.0",
     "next": "15.3.0",
-    "next-auth": "^4.24.11",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "next-auth": "4.24.11",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
